@@ -1,0 +1,14 @@
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.AssemblyInfoInputs.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.AssemblyInfo.cs
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\bin\Debug\net8.0\exercicio 02.exe
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\bin\Debug\net8.0\exercicio 02.deps.json
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\bin\Debug\net8.0\exercicio 02.runtimeconfig.json
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\bin\Debug\net8.0\exercicio 02.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\bin\Debug\net8.0\exercicio 02.pdb
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\refint\exercicio 02.dll
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.pdb
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\exercicio 02.genruntimeconfig.cache
+C:\Users\joaof\OneDrive\Área de Trabalho\Topicos especias de sistemas\Exercicio\exercicio 02\obj\Debug\net8.0\ref\exercicio 02.dll
